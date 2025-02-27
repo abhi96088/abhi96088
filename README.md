@@ -43,7 +43,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi96088&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi96088&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=abhi96088&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
